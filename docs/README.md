@@ -35,6 +35,9 @@ Para esta entrega, todos os diagramas sugeridos foram desenvolvidos com base no 
 ### [Diagrama de Componentes](https://unbarqdsw2025-1-turma02.github.io/2025.1-T02-_G1_JogoEducacional_Entrega_02/#/Modelagem/2.1.ModelagemEstatica?id=diagrama-de-componentes)
 ![diagrama de componentes](Modelagem/diagrama-componentes.drawio.png)
 
+### [Diagrama de Atividades](https://unbarqdsw2025-1-turma02.github.io/2025.1-T02-_G1_JogoEducacional_Entrega_02/#/Modelagem/2.2.ModelagemDinamica?id=diagrama-de-atividades)
+![diagrama de componentes](Modelagem/atividades.svg)
+
 ### [Diagrama de Casos de Uso](http://localhost:3000/#/Modelagem/2.3.ModelagemOrganizacionalCasosDeUso?id=diagrama-de-casos-de-uso)
 ![diagrama de casos de uso](Modelagem/casodeuso/casosdeuso-brinca.svg)
 

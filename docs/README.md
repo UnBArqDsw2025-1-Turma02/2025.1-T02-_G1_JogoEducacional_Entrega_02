@@ -13,6 +13,7 @@
 | 222033952   | Cristiano Borges de Morais                    |
 | 222006660   | Diogo Rodrigues Barboza                       |
 | 221022355   | Júlia Rocha Fortunato                         |
+| 221029249   | Júlia Takaki Neves                            |
 | 202016720   | Luana Ribeiro Soares                          |
 | 221008338   | Maria Clara Oleari de Araújo                  |
 | 222007021   | Maurício Ferreira de Araújo                   |

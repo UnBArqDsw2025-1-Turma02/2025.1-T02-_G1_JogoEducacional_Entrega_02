@@ -40,7 +40,7 @@ Para esta entrega, todos os diagramas sugeridos foram desenvolvidos com base no 
 ![diagrama de componentes](Modelagem/atividades.svg)
 
 ### [Diagrama de Casos de Uso](http://localhost:3000/#/Modelagem/2.3.ModelagemOrganizacionalCasosDeUso?id=diagrama-de-casos-de-uso)
-![diagrama de casos de uso](Modelagem/casodeuso/casosdeuso-brinca.svg)
+![diagrama de casos de uso](Modelagem/casosdeuso-brinca.svg)
 
 
 ## Há algo a ser executado?
